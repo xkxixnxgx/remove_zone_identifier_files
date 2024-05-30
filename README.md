@@ -19,6 +19,10 @@
 
 #### Load `main` file by [link](https://github.com/xkxixnxgx/remove_zone_identifier_files/raw/main/main)
 #### Copy `main` file to your directory for cleaning
+#### Set running flag for `main` file if necessary
+```bash
+chmod u+x ./main
+```
 #### Run `main` file in linux (WSL2) terminal by this command
 ```bash
 ./main
@@ -35,6 +39,10 @@ git clone git@github.com:xkxixnxgx/remove_zone_identifier_files.git
 make compile
 ```
 #### Copy `main` file to your directory for cleaning
+#### Set running flag for `main` file if necessary
+```bash
+chmod u+x ./main
+```
 #### Run `main` file in linux (WSL2) terminal by this command
 ```bash
 ./main
