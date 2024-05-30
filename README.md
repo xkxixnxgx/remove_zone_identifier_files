@@ -39,5 +39,6 @@ make compile
 ```bash
 ./main
 ```
+#### Don't forget to remove `main` file
 
 ## Thanks!
